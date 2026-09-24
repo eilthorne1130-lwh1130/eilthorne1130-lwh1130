@@ -17,7 +17,7 @@
 
 - 🔧 **Ops Engineer**: Daily work with Linux servers, Shell scripting
 - 🐧 **Linux Enthusiast**: Exploring distros, CLI tools, server optimization
-- 🌱 **Currently Learning**: Advanced Shell / Ops Automation / DevOps Practices
+- 🌱 **Currently Learning**: Advanced Shell / Ops Automation
 - 💬 **Open to Discuss**: Linux tips, Shell scripts, ops war stories
 - ⚡ **Motto**: Keep It Simple, Automate Everything.
 
@@ -27,8 +27,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121611?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 📫 Connect with Me
 
@@ -46,7 +44,7 @@
 
 - 🔧 **运维工程师**：日常与 Linux 服务器、Shell 脚本打交道
 - 🐧 **Linux 爱好者**：折腾发行版、命令行工具、服务器优化
-- 🌱 **正在学习**：Shell 进阶 / 运维自动化 / DevOps 实践
+- 🌱 **正在学习**：Shell 进阶 / 运维自动化
 - 💬 **欢迎交流**：Linux 使用技巧、Shell 脚本、运维踩坑经验
 - ⚡ **座右铭**：Keep It Simple, Automate Everything.
 
@@ -56,8 +54,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121611?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 📫 联系我
 
