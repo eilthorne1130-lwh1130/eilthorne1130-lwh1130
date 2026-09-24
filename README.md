@@ -17,7 +17,7 @@
 
 - 🔧 **Ops Engineer**: Daily work with Linux servers, Shell scripting
 - 🐧 **Linux Enthusiast**: Exploring distros, CLI tools, server optimization
-- 🌱 **Currently Learning**: Advanced Shell / Ops Automation
+- 🌱 **Currently Learning**: Advanced Shell
 - 💬 **Open to Discuss**: Linux tips, Shell scripts, ops war stories
 - ⚡ **Motto**: Keep It Simple, Automate Everything.
 
@@ -44,7 +44,7 @@
 
 - 🔧 **运维工程师**：日常与 Linux 服务器、Shell 脚本打交道
 - 🐧 **Linux 爱好者**：折腾发行版、命令行工具、服务器优化
-- 🌱 **正在学习**：Shell 进阶 / 运维自动化
+- 🌱 **正在学习**：Shell 进阶
 - 💬 **欢迎交流**：Linux 使用技巧、Shell 脚本、运维踩坑经验
 - ⚡ **座右铭**：Keep It Simple, Automate Everything.
 
