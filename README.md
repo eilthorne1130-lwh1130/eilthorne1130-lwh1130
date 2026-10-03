@@ -1,6 +1,6 @@
 # Hi there, I'm EilThorne 👋 你好！
 
-> **Ops Engineer / 运维工程师 | Linux Enthusiast / Linux 爱好者**
+> **Linux Enthusiast / Linux 爱好者**
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### 🔭 About Me
 
-- 🔧 **Ops Engineer**: Daily work with Linux servers, Shell scripting
+- 🔧 **Linux Enthusiast**: Daily work with Linux servers, Shell scripting
 - 🐧 **Linux Enthusiast**: Exploring distros, CLI tools, server optimization
 - 🌱 **Currently Learning**: Advanced Shell
 - 💬 **Open to Discuss**: Linux tips, Shell scripts, ops war stories
@@ -42,7 +42,7 @@
 
 ### 🔭 关于我
 
-- 🔧 **运维工程师**：日常与 Linux 服务器、Shell 脚本打交道
+- 🔧 **Linux 爱好者**：日常与 Linux 服务器、Shell 脚本打交道
 - 🐧 **Linux 爱好者**：折腾发行版、命令行工具、服务器优化
 - 🌱 **正在学习**：Shell 进阶
 - 💬 **欢迎交流**：Linux 使用技巧、Shell 脚本、运维踩坑经验
